@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f75efc7-f2c8-452d-a90b-c44e32189485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/Packet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/images/chaticon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/images/gid.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/images/send.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/images/send2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/people.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/server.png" afterDir="false" />
-    </list>
+    <list default="true" id="8f75efc7-f2c8-452d-a90b-c44e32189485" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1612" />
@@ -99,7 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601161164728" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601161600873" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -197,7 +180,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
